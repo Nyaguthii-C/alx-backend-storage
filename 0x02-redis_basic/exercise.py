@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Basic redis - writing strings to redis"""
+
 import redis
 from typing import Any
 import uuid
