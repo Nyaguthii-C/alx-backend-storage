@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """import python module to establish a connection to a database"""
 
 from pymongo import MongoClient
